@@ -1,37 +1,63 @@
-# TagN 🏷️
+# TagN - E-Commerce 🛍️
 
-> Sistema focado em lógica de programação e estruturação de código com TypeScript.
+> Aplicação Front-end de E-commerce desenvolvida com Angular.
 
 ## 💻 Sobre o Projeto
 
-O **TagN** é um projeto desenvolvido para aplicar conceitos fundamentais de desenvolvimento de software e tipagem estática. O objetivo principal é consolidar o conhecimento em **Lógica de Programação**, **Orientação a Objetos** e boas práticas de **Git** utilizando o ecossistema JavaScript/TypeScript.
+O **TagN** é uma aplicação web desenvolvida para aplicar conceitos de Componentização e Arquitetura Front-end utilizando o framework **Angular**.
 
-Embora atualmente focado na regra de negócio e estruturação de classes, o projeto serve como base para futura integração com banco de dados e APIs REST.
+O projeto simula a interface de um e-commerce, focando na estruturação correta de componentes, serviços e no uso de **TypeScript** para garantir a tipagem e segurança do código. Atualmente, serve como base de estudos para integração futura com APIs REST.
 
 ## 🚀 Tecnologias Utilizadas
 
-* **TypeScript** (Tipagem e POO)
-* **Node.js** (Ambiente de execução)
-* **Git** (Versionamento e fluxo de commits)
+* **Angular** (Framework Principal)
+* **TypeScript** (Lógica e Tipagem)
+* **HTML5 & CSS3** (Estruturação e Estilos)
+* **Git** (Versionamento)
 
-## 🎯 Objetivos de Aprendizado
+## ⚙️ Como executar o projeto
 
-Este projeto foi fundamental para exercitar:
-* Uso de **Tipagem Estática** e Interfaces.
-* Estruturação de classes e métodos.
-* Configuração de ambiente (tsconfig, eslint).
-* Uso de **Commits Semânticos**.
+Para rodar este projeto localmente, você precisará ter o Node.js e o Angular CLI instalados.
 
-## 🔮 Próximos Passos (Roadmap)
+```bash
+# Clone este repositório
+$ git clone [https://github.com/thiluvi/E-Commerce-TagN.git](https://github.com/thiluvi/E-Commerce-TagN.git)
 
-Como parte dos meus estudos contínuos em Análise e Desenvolvimento de Sistemas, as próximas atualizações incluirão:
+# Acesse a pasta do projeto no terminal/cmd
+$ cd E-Commerce-TagN
 
-- [ ] Implementação de persistência de dados (Integração com Banco de Dados SQL).
-- [ ] Criação de endpoints **REST** com Express.
-- [ ] Refatoração para arquitetura MVC.
+# Instale as dependências
+$ npm install
 
-## 📞 Contato
+# Execute a aplicação em modo de desenvolvimento
+$ ng serve
+```
 
-**Thiago Pinkoway Luvizutto**
-* [LinkedIn](https://www.linkedin.com/in/thiagoluvizutto)
-* [GitHub](https://github.com/thiluvi)
+A aplicação estará acessível em http://localhost:4200/.
+
+🎯 Objetivos de Aprendizado
+Este projeto permitiu praticar:
+
+Criação e reutilização de Componentes Angular.
+
+Uso de Diretivas estruturais (*ngFor, *ngIf).
+
+Manipulação de dados com TypeScript.
+
+Organização de projeto em módulos.
+
+🔮 Próximos Passos (Roadmap)
+Como parte dos meus estudos em Desenvolvimento de Sistemas, as próximas atualizações visam transformar este Front-end em uma aplicação Full Stack:
+
+[ ] Integração com Backend (consumo de API REST).
+
+[ ] Implementação de carrinho de compras dinâmico.
+
+[ ] Conexão com Banco de Dados (Via API).
+
+📞 Contato
+Thiago Pinkoway Luvizutto
+
+LinkedIn
+
+GitHub

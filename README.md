@@ -35,18 +35,15 @@ $ ng serve
 
 A aplicação estará acessível em http://localhost:4200/.
 
-🎯 Objetivos de Aprendizado
+## 🎯 Objetivos de Aprendizado
+
 Este projeto permitiu praticar:
+* Criação e reutilização de Componentes Angular.
+* Uso de Diretivas estruturais (*ngFor, *ngIf).
+* Manipulação de dados com TypeScript.
+* Organização de projeto em módulos.
 
-Criação e reutilização de Componentes Angular.
-
-Uso de Diretivas estruturais (*ngFor, *ngIf).
-
-Manipulação de dados com TypeScript.
-
-Organização de projeto em módulos.
-
-🔮 Próximos Passos (Roadmap)
+## 🔮 Próximos Passos (Roadmap)
 Como parte dos meus estudos em Desenvolvimento de Sistemas, as próximas atualizações visam transformar este Front-end em uma aplicação Full Stack:
 
 [ ] Integração com Backend (consumo de API REST).
@@ -55,9 +52,8 @@ Como parte dos meus estudos em Desenvolvimento de Sistemas, as próximas atualiz
 
 [ ] Conexão com Banco de Dados (Via API).
 
-📞 Contato
-Thiago Pinkoway Luvizutto
+## 📞 Contato
 
-LinkedIn
-
-GitHub
+**Thiago Pinkoway Luvizutto**
+* [LinkedIn](https://www.linkedin.com/in/thiagoluvizutto)
+* [GitHub](https://github.com/thiluvi)

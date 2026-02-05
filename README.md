@@ -1,59 +1,35 @@
-# TagN
+# TagN 🏷️
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.6.
+> Sistema focado em lógica de programação e estruturação de código Java.
 
-## Development server
+## 💻 Sobre o Projeto
 
-To start a local development server, run:
+O **TagN** é um projeto desenvolvido para aplicar conceitos fundamentais de desenvolvimento de software e versionamento. O objetivo principal é consolidar o conhecimento em **Lógica de Programação**, **Orientação a Objetos** e boas práticas de **Git**.
 
-```bash
-ng serve
-```
+Embora atualmente focado na regra de negócio e estruturação de classes, o projeto serve como base para futura integração com banco de dados e APIs.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## 🚀 Tecnologias Utilizadas
 
-## Code scaffolding
+* **Java** (Lógica e POO)
+* **Git** (Versionamento e fluxo de commits)
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## 🎯 Objetivos de Aprendizado
 
-```bash
-ng generate component component-name
-```
+Este projeto foi fundamental para exercitar:
+* Estruturação de classes e métodos em Java.
+* Uso de **Commits Semânticos** para manter um histórico de alterações limpo e legível.
+* Organização de repositório.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 🔮 Próximos Passos (Roadmap)
 
-```bash
-ng generate --help
-```
+Como parte dos meus estudos contínuos em Análise e Desenvolvimento de Sistemas, as próximas atualizações incluirão:
 
-## Building
+- [ ] Implementação de persistência de dados com **SQL** (Oracle Database).
+- [ ] Criação de endpoints **REST** para consumo de dados.
+- [ ] Refatoração para arquitetura MVC.
 
-To build the project run:
+## 📞 Contato
 
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+**Thiago Pinkoway Luvizutto**
+* [LinkedIn](https://www.linkedin.com/in/thiagoluvizutto)
+* [GitHub](https://github.com/thiluvi)
